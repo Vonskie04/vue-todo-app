@@ -5,7 +5,7 @@ It's an open source file. Help yourself lol
 
 ## Git Clone 
 ```sh
-git clone 
+git clone https://github.com/Vonskie04/vue-todo-app.git
 ```
 
 ## Project Setup
